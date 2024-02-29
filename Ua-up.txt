@@ -1,1 +1,13 @@
-
+["Mozilla/5.0 (Linux; Android 7.0; RS988) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.66 Mobile Safari/537.36",
+"Mozilla/5.0 (Linux; Android 10; motorola one fusion Build/QPLS30.62-41-5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.149 Mobile Safari/537.36 GSA/11.3.9.21.arm64",
+"Mozilla/5.0 (Linux; arm_64; Android 9; SM-A207F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 YaApp_Android/21.25 YaSearchBrowser/21.25 BroPP/1.0 SA/3 Mobile Safari/537.36",
+"Mozilla/5.0 (Linux; Android 11; CPH2067 Build/RKQ1.200903.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.105 Mobile Safari/537.36 GSA/12.10.7.23.arm64",
+"Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-N960F/N960FXXS8FUB1) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36",
+"Mozilla/5.0 (Linux; arm_64; Android 10; COL-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 BroPP/1.0 SA/3 YandexSearch/21.25.1 YandexSearchWebView/21.25.1 Mobile Safari/537.36",
+"Mozilla/5.0 (Linux; Android 7.0; HUAWEI VNS-L21 Build/HUAWEIVNS-L21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.66 Mobile Safari/537.36 GSA/12.13.8.23.arm64",
+"Mozilla/5.0 (Linux; Android 9; SM-A105FN Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.66 Mobile Safari/537.36 GSA/12.14.7.23.arm",
+"Mozilla/5.0 (Linux; Android 10; RMX1993) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/13.2 Chrome/83.0.4103.106 Mobile Safari/537.36",
+"Mozilla/5.0 (Linux; Android 7.1.2; Redmi Note 5A Prime Build/N2G47H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 Instagram 181.0.0.33.117 Android (25/7.1.2; 320dpi; 720x1280; Xiaomi/xiaomi; Redmi Note 5A Prime; ugg; qcom; ru_RU; 281579031)",
+"Mozilla/5.0 (Linux; Android 7.1.1; Moto G Play Build/NPIS26.48-43-2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.66 Mobile Safari/537.36 GSA/12.13.8.23.arm",
+"Mozilla/5.0 (Linux; Android 8.1.0; DRA-L21 Build/HUAWEIDRA-L21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.66 Mobile Safari/537.36 GSA/12.14.7.23.arm64",
+"Mozilla/5.0 (Linux; Android 10; M2006C3LG Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.138 Mobile Safari/537.36 GSA/11.25.13.21.arm"]
