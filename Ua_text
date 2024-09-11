@@ -1,24 +1,115 @@
-["Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A037F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.2 Chrome/92.0.4515.166 Mobile Safari/537.36",
-"Mozilla/5.0 (Linux; Android 12; 2109119DI Build/SKQ1.211006.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.41 Mobile Safari/537.36 GSA/13.15.10.23.arm64",
-"Mozilla/5.0 (Linux; Android 11; SM-N9750 Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Mobile Safari/537.36",
-"Mozilla/5.0 (Linux; Android 12; Redmi 5 Plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Mobile Safari/537.36 OPR/68.3.3557.64528",
-"Mozilla/5.0 (Linux; Android 10; SM-T295 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Safari/537.36 GSA/13.16.8.23.arm64",
-"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.52 Safari/537.36",
-"Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 232.0.0.12.114 (iPhone7,1; iOS 12_5_5; ru_KZ; ru-KZ; scale=2.61; 1080x1920; 365562048)",
-"Mozilla/5.0 (Linux; Android 11; M2007J3SY Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.41 Mobile Safari/537.36",
-"Mozilla/5.0 (Linux; Android 10; H9493 Build/52.1.A.3.137; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Mobile Safari/537.36",
-"Mozilla/5.0 (Linux; Android 9; NX616J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.96 Mobile Safari/537.36",
-"Mozilla/5.0 (Linux; Android 12; XQ-BC72 Build/61.1.A.6.2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Mobile Safari/537.36",
-"Mozilla/5.0 (Linux; Android 11; TECNO KF8 Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36 GSA/12.34.17.23.arm64",
-"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36",
-"Mozilla/5.0 (Linux; Android 9; vivo 1725 Build/PKQ1.180819.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.41 Mobile Safari/537.36 GoogleApp/13.16.8.23.arm64",
-"Mozilla/5.0 (Linux; Android 7.1.1; SM-J510FN Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36 GSA/11.33.9.23.arm",
-"Mozilla/5.0 (Linux; Android 12; V2050 Build/SP1A.210812.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.41 Mobile Safari/537.36 GSA/13.15.10.23.arm64",
-"Mozilla/5.0 (Linux; Android 8.0.0; SM-A320F Build/R16NW; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.41 Mobile Safari/537.36 GSA/13.16.8.23.arm",
-"Mozilla/5.0 (Linux; arm_64; Android 11; 2201117TY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 YaBrowser/22.5.0.163.00 SA/3 Mobile Safari/537.36",
-"Mozilla/5.0 (Linux; Android 11; IV2201 Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Mobile Safari/537.36 GSA/13.16.8.23.arm64",
-"Mozilla/5.0 (Linux; Android 10; SM-A105F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.88 Mobile Safari/537.36 GSA/13.15.10.23.arm",
-"Mozilla/5.0 (Linux; U; Android 9; zh-cn; MI 6 Build/PKQ1.190118.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/16.2.17 swan-mibrowser",
-"Mozilla/5.0 (Linux; Android 11; G310) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36",
-"Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Mobile Safari/537.36",
-"Mozilla/5.0 (Linux; Android 11; LE2101 Build/RKQ1.201112.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Mobile Safari/537.36 GSA/13.16.8.23.arm64"]
+[FBAN/FB4A;FBAV/285.0.0.9.136;FBBV/902887638;FBDM/{density=2.3,width=1080,height=1497};FBLC/hi_IN;FBRV/879706951;FBCR/Sprint;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/M2010J19CG;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/271.0.0.4.161;FBBV/286686079;FBDM/{density=3.3,width=1080,height=1469};FBLC/ it_IT;FBRV/166798630;FBCR/Jio 4G;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 7A;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/337.0.0.5.174;FBBV/752284263;FBDM/{density=3.2,width=1080,height=1413};FBLC/pl_PL;FBRV/365190565;FBCR/AT&amp;amp-T;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/M2102J20SG;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/262.0.0.6.157;FBBV/612926172;FBDM/{density=3.2,width=1080,height=1483};FBLC/lt_LT;FBRV/807395842;FBCR/EE;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/M2010J19CG;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/314.0.0.4.141;FBBV/713858166;FBDM/{density=2.3,width=1080,height=1456};FBLC/lt_LT;FBRV/912499553;FBCR/Tele2 LT;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/M2003J15SC;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/336.0.0.6.108;FBBV/343716197;FBDM/{density=3.3,width=1080,height=1404};FBLC/id_ID;FBRV/536308955;FBCR/FASTWEB;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 7A;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/360.0.0.7.132;FBBV/139493125;FBDM/{density=2.5,width=1080,height=1401};FBLC/ru_RU;FBRV/858160879;FBCR/Oi;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/M2101K7AG;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/323.0.0.9.127;FBBV/311796276;FBDM/{density=3.2,width=1080,height=1423};FBLC/id_ID;FBRV/601549940;FBCR/Jio 4G;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/M2102J20SG;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/347.0.0.5.130;FBBV/645197554;FBDM/{density=3.4,width=1080,height=1425};FBLC/es_ES;FBRV/982335170;FBCR/Azercell;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/AT&amp;amp-T;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/255.0.0.3.187;FBBV/341482812;FBDM/{density=2.4,width=1080,height=1414};FBLC/en_IN;FBRV/398906296;FBCR/Vodafone IN;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/M2003J15SC;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/363.0.0.8.154;FBBV/474968968;FBDM/{density=2.2,width=1080,height=1461};FBLC/he_IL;FBRV/884373861;FBCR/Oi;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/AT&amp;amp-T;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/214.0.0.4.178;FBBV/304958987;FBDM/{density=2.4,width=1080,height=1446};FBLC/he_IL;FBRV/911359643;FBCR/Azercell;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/MI 8 Lite;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/316.0.0.9.116;FBBV/957595333;FBDM/{density=2.3,width=1080,height=1434};FBLC/en_GB;FBRV/177884886;FBCR/Banglalink;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/M2012K11AG;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/364.0.0.2.168;FBBV/886001873;FBDM/{density=2.2,width=1080,height=1483};FBLC/id_ID;FBRV/731363330;FBCR/EE;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/M2101K7AG;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/398.0.0.2.102;FBBV/318361194;FBDM/{density=2.4,width=1080,height=1495};FBLC/lt_LT;FBRV/781885177;FBCR/Tele2You;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 4X;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/248.0.0.1.154;FBBV/523551458;FBDM/{density=2.2,width=1080,height=1433};FBLC/es_ES;FBRV/282344434;FBCR/Ufone;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 8T;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/371.0.0.9.103;FBBV/844364551;FBDM/{density=2.5,width=1080,height=1444};FBLC/lt_LT;FBRV/251729769;FBCR/Oi;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Mi A2 Lite;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/353.0.0.7.131;FBBV/570838967;FBDM/{density=3.4,width=1080,height=1425};FBLC/en_GB;FBRV/317485574;FBCR/Vi India;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/M2003J15SC;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/276.0.0.7.132;FBBV/502169955;FBDM/{density=2.2,width=1080,height=1416};FBLC/hi_IN;FBRV/298241692;FBCR/Ufone;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/MI MAX 2;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/286.0.0.9.135;FBBV/698704450;FBDM/{density=3.2,width=1080,height=1498};FBLC/id_ID;FBRV/414878368;FBCR/Tele2 LT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/MI 8 Lite;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/333.0.0.7.134;FBBV/677169245;FBDM/{density=2.5,width=1080,height=1470};FBLC/en_GB;FBRV/962907540;FBCR/Tele2 LT;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/M2012K11AG;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/308.0.0.3.118;FBBV/315975971;FBDM/{density=3.4,width=1080,height=1447};FBLC/pt_PT;FBRV/477266118;FBCR/MtelBG;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/M2101K7AG;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/343.0.0.6.177;FBBV/542400306;FBDM/{density=3.2,width=1080,height=1493};FBLC/ru_RU;FBRV/608182200;FBCR/Ufone;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/M2012K11AG;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/220.0.0.6.173;FBBV/305360852;FBDM/{density=3.3,width=1080,height=1468};FBLC/pl_PL;FBRV/192088759;FBCR/Vi India;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/M2004J19C;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/376.0.0.9.165;FBBV/267833283;FBDM/{density=2.2,width=1080,height=1487};FBLC/en_GB;FBRV/298043657;FBCR/Banglalink;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 7A;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/386.0.0.9.158;FBBV/160164758;FBDM/{density=3.3,width=1080,height=1401};FBLC/ it_IT;FBRV/401536482;FBCR/Tele2 LT;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/MI MAX 2;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/211.0.0.7.132;FBBV/234364518;FBDM/{density=3.4,width=1080,height=1452};FBLC/he_IL;FBRV/713860632;FBCR/Telenor;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/Redmi 6A;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/241.0.0.3.198;FBBV/673632876;FBDM/{density=3.5,width=1080,height=1405};FBLC/id_ID;FBRV/844093510;FBCR/Telenor;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 4;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/339.0.0.6.186;FBBV/962501438;FBDM/{density=3.2,width=1080,height=1450};FBLC/he_IL;FBRV/942381971;FBCR/Tele2You;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/MI MAX 2;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/279.0.0.4.182;FBBV/381552768;FBDM/{density=2.5,width=1080,height=1459};FBLC/en_PK;FBRV/903675575;FBCR/Vodafone IN;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 8T;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/385.0.0.5.194;FBBV/419635245;FBDM/{density=2.2,width=1080,height=1419};FBLC/ it_IT;FBRV/616539423;FBCR/Tele2 LT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Mi 9T;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/379.0.0.9.158;FBBV/641651499;FBDM/{density=3.5,width=1080,height=1458};FBLC/hi_IN;FBRV/764169209;FBCR/Vi India;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/ Mi 9;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/302.0.0.4.187;FBBV/144723102;FBDM/{density=3.5,width=1080,height=1415};FBLC/hi_IN;FBRV/408866221;FBCR/Telenor;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/M2003J15SC;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/292.0.0.1.179;FBBV/492706943;FBDM/{density=3.5,width=1080,height=1496};FBLC/ it_IT;FBRV/272438262;FBCR/Tele2You;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/M2006C3LG;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/353.0.0.8.113;FBBV/644995771;FBDM/{density=2.5,width=1080,height=1486};FBLC/lt_LT;FBRV/704645510;FBCR/Jio 4G;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/M2004J19C;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/298.0.0.8.170;FBBV/150447076;FBDM/{density=3.2,width=1080,height=1485};FBLC/pl_PL;FBRV/685050850;FBCR/Vi India;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/AT&amp;amp-T;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/340.0.0.6.167;FBBV/261027148;FBDM/{density=2.2,width=1080,height=1400};FBLC/pl_PL;FBRV/379884382;FBCR/MtelBG;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 6A;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/219.0.0.1.107;FBBV/678719553;FBDM/{density=2.5,width=1080,height=1442};FBLC/he_IL;FBRV/127651716;FBCR/Vodafone IN;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 4X;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/321.0.0.8.182;FBBV/145150725;FBDM/{density=3.5,width=1080,height=1481};FBLC/es_ES;FBRV/211618741;FBCR/Tele2 LT;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/M2101K7AG;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/286.0.0.1.133;FBBV/634280209;FBDM/{density=2.5,width=1080,height=1492};FBLC/pl_PL;FBRV/195421009;FBCR/FASTWEB;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/M2010J19CG;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/339.0.0.3.139;FBBV/207371803;FBDM/{density=3.3,width=1080,height=1415};FBLC/pt_PT;FBRV/484798326;FBCR/Banglalink;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/ Mi 9;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/301.0.0.8.139;FBBV/394590883;FBDM/{density=3.5,width=1080,height=1497};FBLC/ru_RU;FBRV/678219125;FBCR/EE;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/M2101K9G;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/327.0.0.6.173;FBBV/649534305;FBDM/{density=2.5,width=1080,height=1476};FBLC/en_US;FBRV/938094376;FBCR/Telenor;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/Redmi Note 8 Pro;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/267.0.0.9.134;FBBV/406233421;FBDM/{density=3.4,width=1080,height=1445};FBLC/ru_RU;FBRV/247079834;FBCR/Jazz;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/MI MAX 2;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/297.0.0.6.108;FBBV/686652237;FBDM/{density=3.2,width=1080,height=1495};FBLC/en_PK;FBRV/791617000;FBCR/Jazz;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/M2101K7AG;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/272.0.0.9.176;FBBV/421502201;FBDM/{density=2.4,width=1080,height=1457};FBLC/pt_PT;FBRV/581218445;FBCR/Azercell;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/Mi A2 Lite;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/204.0.0.5.123;FBBV/641788042;FBDM/{density=2.5,width=1080,height=1467};FBLC/en_GB;FBRV/541029018;FBCR/Tele2You;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/M2010J19CG;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/266.0.0.2.169;FBBV/756152184;FBDM/{density=3.5,width=1080,height=1451};FBLC/pt_PT;FBRV/290964622;FBCR/Jazz;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Mi 9T;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/359.0.0.2.127;FBBV/402748737;FBDM/{density=3.3,width=1080,height=1412};FBLC/es_ES;FBRV/136517690;FBCR/Jio 4G;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/M2003J15SC;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/219.0.0.6.103;FBBV/476336526;FBDM/{density=3.5,width=1080,height=1490};FBLC/ it_IT;FBRV/325761075;FBCR/Tele2 LT;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/M2003J15SC;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/276.0.0.8.130;FBBV/739888118;FBDM/{density=3.4,width=1080,height=1448};FBLC/pl_PL;FBRV/695430130;FBCR/Azercell;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/Redmi Note 8 Pro;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/236.0.0.5.102;FBBV/393176842;FBDM/{density=3.4,width=1080,height=1462};FBLC/nl_NL;FBRV/293237543;FBCR/EE;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 8 Pro;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/372.0.0.4.185;FBBV/778462731;FBDM/{density=2.3,width=1080,height=1478};FBLC/es_ES;FBRV/893522296;FBCR/Telenor;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/M2007J20CG;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/343.0.0.9.160;FBBV/188305177;FBDM/{density=2.5,width=1080,height=1433};FBLC/hi_IN;FBRV/929007562;FBCR/MtelBG;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/AT&amp;amp-T;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/214.0.0.8.176;FBBV/489381616;FBDM/{density=2.2,width=1080,height=1449};FBLC/en_PK;FBRV/382548607;FBCR/Jazz;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/M2101K7BG;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/347.0.0.9.186;FBBV/775345558;FBDM/{density=3.3,width=1080,height=1409};FBLC/ru_RU;FBRV/544246107;FBCR/EE;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/ Mi 9;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/293.0.0.8.173;FBBV/681954167;FBDM/{density=2.3,width=1080,height=1475};FBLC/id_ID;FBRV/555701758;FBCR/Azercell;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 7A;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+
+[FBAN/FB4A;FBAV/270.0.0.3.195;FBBV/935242188;FBDM/{density=3.5,width=1080,height=1415};FBLC/ it_IT;FBRV/834655128;FBCR/Banglalink;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/MI PLAY;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
