@@ -1,0 +1,1 @@
+[FBAN/FB4A;FBAV/567.1.0.52.74;FBBV/1003893538;FBDM/{density=2.7,width=2221,height=1080};FBLC/en_US;FBRV/1007132658;FBCR/Grameenphone;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX1901;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
